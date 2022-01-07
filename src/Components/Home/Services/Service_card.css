@@ -1,0 +1,21 @@
+.card{
+    margin-top: 60px;
+    transition: transform .3s linear, box-shadow .1s;
+}
+/* .card:hover{
+    box-shadow: 2px 4px 32px #4E16B2;
+    transform: translateY(-15px);
+} */
+
+.card-body{
+    
+    background: #E3E7EB !important;
+}
+.card-body h4{
+    font-size: 20px;
+    color: #ddd !important;
+}
+.card-body h5{
+    font-size: 15px;
+    color: #ddd !important;
+}
